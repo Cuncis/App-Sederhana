@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Sederhana</string>
+    <string name="masukkan_panjang">Masukkan panjang...</string>
+    <string name="masukkan_lebar">Masukkan lebar...</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="title_main">Rumus menghitung luas persegi panjang adalah Luas = Panjang x Lebar</string>
+</resources>
